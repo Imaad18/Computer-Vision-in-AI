@@ -5,13 +5,13 @@
 ![Notebook](https://img.shields.io/badge/Notebook-Colab%20Friendly-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-A comprehensive and well-structured Jupyter Notebook focused on the field of **Computer Vision in Artificial Intelligence**. This repository is ideal for learners, researchers, and developers interested in exploring various computer vision techniques, concepts, and implementations in Python.
+A comprehensive and well-structured Jupyter Notebook focused on the field of **Computer Vision in Artificial Intelligence**. This repository is ideal for learners, researchers, and developers interested in exploring various computer vision concepts and their implementation using Python.
 
 ---
 
 ## 📂 Repository Overview
 
-This repository contains a single notebook designed to document and demonstrate core topics related to computer vision and artificial intelligence. The notebook may include code examples, theoretical explanations, visualizations, and practical applications, all aimed at building intuition and hands-on skills.
+This repository contains a single notebook designed to document and demonstrate key topics related to computer vision and artificial intelligence. It includes code examples, explanations, visualizations, and practical workflows — all aimed at building strong foundational skills.
 
 ---
 
@@ -19,9 +19,7 @@ This repository contains a single notebook designed to document and demonstrate 
 
 - **Python 3**
 - **Jupyter Notebook / Google Colab**
-- Common libraries: `NumPy`, `Matplotlib`, `OpenCV`, and others as needed.
-
-> Note: All libraries used are open-source and installable via pip.
+- Common libraries such as `NumPy`, `Matplotlib`, `OpenCV`, and more as required
 
 ---
 
@@ -29,17 +27,15 @@ This repository contains a single notebook designed to document and demonstrate 
 
 ### 🔗 Open in Google Colab
 
-Easiest way to run the notebook:
+The easiest way to explore and run the notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Computer-Vision-in-AI/blob/main/Computer%20Vision%20in%20AI.ipynb)
-
-> *(Replace `your-username` with your GitHub username)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imaad18/Computer-Vision-in-AI/blob/main/Computer_Vision_in_AI.ipynb)
 
 ---
 
 ### 🖥️ Run Locally
 
-1. Clone the repo:
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Computer-Vision-in-AI.git
+   git clone https://github.com/Imaad18/Computer-Vision-in-AI.git
    cd Computer-Vision-in-AI
