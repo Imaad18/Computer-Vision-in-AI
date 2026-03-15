@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpeg" alt="Computer Vision in AI Banner" width="100%"/>
+</p>
+
 # Computer Vision in AI
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
